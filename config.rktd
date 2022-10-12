@@ -1,0 +1,1 @@
+((allow-new-users #t) (allow-change-info #t) (active-dirs ("3.00-string-first" "3.01-less-than-5" "3.01-pig-latin" "3.01-string-last" "3.02-string-rest" "3.03-string-remove-last" "3.04-formalize" "3.05-teenager" "3.06-can-ride" "3.07-sf-local" "3.08-TLDR" "3.50-image-larger" "3.51-distance")))
